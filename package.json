@@ -1,0 +1,19 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "description": "Get Zhihu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Datehoer",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "puppeteer": "^13.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
